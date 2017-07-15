@@ -1,0 +1,11 @@
+shyam,hyd,900
+ramulu,amangal,901
+subhashini,karnool,902
+rgv,hyd,12345
+a,b,1209
+s,w,0
+RGUKT,BASAR,55
+rohit,warangal,9990
+rohit,warangal,9849
+radhe,bihar,9087
+saibabu,nizambad,111
